@@ -5,7 +5,7 @@ Technical writer and developer advocate at WPForms. I build the tooling I wish d
 ## What I'm building
 
 - **[wpf-assistant](https://github.com/23kb/wpf-assistant)** (aka wpf-clicky): a Chrome extension for WPForms. Ask a question and it points at the exact UI element on screen, with an animated cursor and step-by-step guidance. Claude tool calls + a Cloudflare Worker backend.
-- **[wpforms-automated-videos](https://github.com/23kb/wpforms-automated-videos)**: an HTML video engine that films real product UI in the browser. GSAP camera and cursor primitives, narration-synced motion, deterministic MP4 renders. 12+ tutorial videos shipped.
+- **[html-video-engine](https://github.com/23kb/html-video-engine)**: an HTML video engine that turns real product UI into polished tutorials and ad-style launch films. GSAP camera and cursor moves, narration-synced motion, 4K renders, automated QC on every build. About 75 videos rendered so far this quarter.
 - **WebMCP for WPForms**: a 48-tool integration that lets AI agents drive WPForms through the experimental WebMCP browser API (`navigator.modelContext`). One of the few production WebMCP implementations. Code is private for now; write-up coming.
 - **[redline-racing](https://github.com/23kb/redline-racing)**: a GTA-style browser racing game on the real Laguna Seca circuit. React Three Fiber + Rapier physics.
 
